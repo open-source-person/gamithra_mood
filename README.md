@@ -62,7 +62,7 @@ productive do I feel?*
 *how well am I generally feeling?*
 
 
-**🍃 mental baseline - anxiety3**
+**🍃 mental baseline - anxiety**
 
 *how free of anxiety do I feel? is there a sense of stillness in the body?*
 
@@ -72,7 +72,7 @@ productive do I feel?*
 how free of depression do I feel? do I feel awesome and motivated?
 
 
-**⛅ mental baseline - melancholy: 4**
+**⛅ mental baseline - melancholy**
 
 do I feel free of sadness? am I free from holding onto something that isn’t there anymore? am I daydreaming?
 
