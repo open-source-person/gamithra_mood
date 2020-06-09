@@ -414,4 +414,108 @@
       "value": 7.0
     }
   ]
+}{
+  "date": "04.06.2020",
+  "time": "8:00",
+  "data": [
+    {
+      "type": [
+        "health:"
+      ],
+      "value": 7.5
+    },
+    {
+      "type": [
+        "self-worth:"
+      ],
+      "value": 9.5
+    },
+    {
+      "type": [
+        "gratitude:"
+      ],
+      "value": 7.0
+    },
+    {
+      "type": [
+        "generosity:"
+      ],
+      "value": 5.0
+    },
+    {
+      "type": [
+        "belonging:"
+      ],
+      "value": 8.0
+    },
+    {
+      "type": [
+        "future:"
+      ],
+      "value": 10.0
+    },
+    {
+      "type": [
+        "present:"
+      ],
+      "value": 4.0
+    },
+    {
+      "type": [
+        "past:"
+      ],
+      "value": 7.0
+    },
+    {
+      "type": [
+        "gratification:"
+      ],
+      "value": 3.0
+    },
+    {
+      "type": [
+        "focus:"
+      ],
+      "value": 6.0
+    },
+    {
+      "type": [
+        "independence:"
+      ],
+      "value": 9.0
+    },
+    {
+      "type": [
+        "wellbeing:"
+      ],
+      "value": 9.0
+    },
+    {
+      "type": [
+        "mental",
+        "baseline",
+        "-",
+        "anxiety:"
+      ],
+      "value": 3.5
+    },
+    {
+      "type": [
+        "mental",
+        "baseline",
+        "-",
+        "depression:"
+      ],
+      "value": 7.0
+    },
+    {
+      "type": [
+        "mental",
+        "baseline",
+        "-",
+        "melancholy:"
+      ],
+      "value": 7.0
+    }
+  ]
 }
