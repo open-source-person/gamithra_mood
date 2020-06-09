@@ -76,3 +76,21 @@ how free of depression do I feel? do I feel awesome and motivated?
 
 do I feel free of sadness? am I free from holding onto something that isn’t there anymore? am I daydreaming?
 
+
+
+
+## measurement guide
+```
+0 - absolutely fucking horrible
+1 - very bad
+2 - uhhh, quite bad actually
+3 - not very good
+4 - on the negative side, not great but not the worst
+5 - somewhere in between, hard to say
+6 - on the positive side
+7 - pretty good!
+8 - good!! nice!!!! hihi
+9 - reaaaaally gooooood
+10 - absolutely freakin' great couldn't possibly be better
+```
+
