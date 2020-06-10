@@ -1,0 +1,105 @@
+{
+  "date": "09.06.2020",
+  "time": "9:00",
+  "data": [
+    {
+      "type": [
+        "health:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "self-worth:"
+      ],
+      "value": 5.0
+    },
+    {
+      "type": [
+        "gratitude:"
+      ],
+      "value": 3.0
+    },
+    {
+      "type": [
+        "generosity:"
+      ],
+      "value": 5.0
+    },
+    {
+      "type": [
+        "belonging:"
+      ],
+      "value": 3.0
+    },
+    {
+      "type": [
+        "future:"
+      ],
+      "value": 6.0
+    },
+    {
+      "type": [
+        "present:"
+      ],
+      "value": 2.0
+    },
+    {
+      "type": [
+        "past:"
+      ],
+      "value": 8.0
+    },
+    {
+      "type": [
+        "gratification:"
+      ],
+      "value": 3.0
+    },
+    {
+      "type": [
+        "focus:"
+      ],
+      "value": 2.0
+    },
+    {
+      "type": [
+        "independence:"
+      ],
+      "value": 5.0
+    },
+    {
+      "type": [
+        "wellbeing:"
+      ],
+      "value": 2.0
+    },
+    {
+      "type": [
+        "mental",
+        "baseline",
+        "-",
+        "anxiety:"
+      ],
+      "value": 3.0
+    },
+    {
+      "type": [
+        "mental",
+        "baseline",
+        "-",
+        "depression:"
+      ],
+      "value": 3.0
+    },
+    {
+      "type": [
+        "mental",
+        "baseline",
+        "-",
+        "melancholy:"
+      ],
+      "value": 4.0
+    }
+  ]
+}
