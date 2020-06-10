@@ -1,78 +1,78 @@
 {
-  "date": "10.06.2020",
-  "time": "10:00",
+  "date": "04.06.2020",
+  "time": "8:00",
   "data": [
     {
       "type": [
         "health:"
       ],
-      "value": 4.0
+      "value": 7.5
     },
     {
       "type": [
         "self-worth:"
       ],
-      "value": 7.0
+      "value": 9.5
     },
     {
       "type": [
         "gratitude:"
       ],
-      "value": 8.0
+      "value": 7.0
     },
     {
       "type": [
         "generosity:"
       ],
-      "value": 4.0
+      "value": 5.0
     },
     {
       "type": [
         "belonging:"
       ],
-      "value": 3.0
+      "value": 8.0
     },
     {
       "type": [
         "future:"
       ],
-      "value": 8.5
+      "value": 10.0
     },
     {
       "type": [
         "present:"
       ],
-      "value": 3.0
+      "value": 4.0
     },
     {
       "type": [
         "past:"
       ],
-      "value": 8.0
+      "value": 7.0
     },
     {
       "type": [
         "gratification:"
       ],
-      "value": 2.0
+      "value": 3.0
     },
     {
       "type": [
         "focus:"
       ],
-      "value": 4.0
+      "value": 6.0
     },
     {
       "type": [
         "independence:"
       ],
-      "value": 5.0
+      "value": 9.0
     },
     {
       "type": [
         "wellbeing:"
       ],
-      "value": 4.0
+      "value": 9.0
     },
     {
       "type": [
@@ -81,7 +81,7 @@
         "-",
         "anxiety:"
       ],
-      "value": 5.0
+      "value": 3.5
     },
     {
       "type": [
@@ -90,7 +90,7 @@
         "-",
         "depression:"
       ],
-      "value": 3.0
+      "value": 7.0
     },
     {
       "type": [
@@ -99,7 +99,7 @@
         "-",
         "melancholy:"
       ],
-      "value": 3.0
+      "value": 7.0
     }
   ]
 }
