@@ -36,7 +36,7 @@ how excited am I for the future? how meaningful does it feel?
 how present and grounded do I feel? how balanced do I feel? how free of anxiety do I feel? is there a sense of stillness in the body?
 
 
-**🎥 past**
+**⛅ past**
 
 do I feel free of sadness and melancholy? am I free from holding onto something that isn’t there anymore? am I daydreaming? do I regret something? 
 
