@@ -33,12 +33,12 @@ how excited am I for the future? how meaningful does it feel?
 
 **🌞 present**
 
-how present and grounded do I feel? how balanced do I feel?
+how present and grounded do I feel? how balanced do I feel? how free of anxiety do I feel? is there a sense of stillness in the body?
 
 
 **🎥 past**
 
-how okay am I with my past? how do I feel about things I've achieved? how okay am I with trauma?
+do I feel free of sadness and melancholy? am I free from holding onto something that isn’t there anymore? am I daydreaming? do I regret something? 
 
 
 **🧪 gratification**
@@ -57,24 +57,14 @@ how focused do I feel? do I know what I am doing or does everything feel like a 
 how independent do I feel? how much do I feel like I don't need someone else to complete and validate me?
 
 
-**✨ wellbeing**
-
-how well am I generally feeling?
-
-
-**🍃 mental baseline - anxiety**
-
-how free of anxiety do I feel? is there a sense of stillness in the body?
-
-
-**🌻 mental baseline - depression**
+**🌻 motivation**
 
 how free of depression do I feel? do I feel awesome and motivated?
 
 
-**⛅ mental baseline - melancholy**
+**✨ wellbeing**
 
-do I feel free of sadness? am I free from holding onto something that isn’t there anymore? am I daydreaming?
+how well am I generally feeling?
 
 
 
