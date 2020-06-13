@@ -1,0 +1,84 @@
+{
+  "date": "test",
+  "time": "test",
+  "data": [
+    {
+      "type": [
+        "health:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "self-worth:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "gratitude:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "generosity:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "belonging:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "future:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "present:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "past:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "gratification:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "focus:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "independence:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "motivation:"
+      ],
+      "value": 1.0
+    },
+    {
+      "type": [
+        "wellbeing:"
+      ],
+      "value": 1.0
+    }
+  ]
+}
