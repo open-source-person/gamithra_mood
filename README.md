@@ -71,7 +71,7 @@ how well am I generally feeling?
 
 ## measurement guide
 ```
-0 - absolutely fucking horrible
+0 - absolutely horrible. it's the worst
 1 - very bad
 2 - uhhh, quite bad actually
 3 - not very good
