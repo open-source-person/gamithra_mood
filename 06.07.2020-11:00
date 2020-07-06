@@ -1,0 +1,84 @@
+{
+  "date": "06.07.2020",
+  "time": "11:00",
+  "data": [
+    {
+      "type": [
+        "health:"
+      ],
+      "value": 4.0
+    },
+    {
+      "type": [
+        "self-worth:"
+      ],
+      "value": 7.0
+    },
+    {
+      "type": [
+        "gratitude:"
+      ],
+      "value": 7.0
+    },
+    {
+      "type": [
+        "generosity:"
+      ],
+      "value": 5.0
+    },
+    {
+      "type": [
+        "belonging:"
+      ],
+      "value": 7.5
+    },
+    {
+      "type": [
+        "future:"
+      ],
+      "value": 8.0
+    },
+    {
+      "type": [
+        "present:"
+      ],
+      "value": 6.0
+    },
+    {
+      "type": [
+        "past:"
+      ],
+      "value": 8.0
+    },
+    {
+      "type": [
+        "gratification:"
+      ],
+      "value": 5.0
+    },
+    {
+      "type": [
+        "focus:"
+      ],
+      "value": 6.0
+    },
+    {
+      "type": [
+        "independence:"
+      ],
+      "value": 7.0
+    },
+    {
+      "type": [
+        "motivation:"
+      ],
+      "value": 5.5
+    },
+    {
+      "type": [
+        "wellbeing:"
+      ],
+      "value": 5.0
+    }
+  ]
+}
