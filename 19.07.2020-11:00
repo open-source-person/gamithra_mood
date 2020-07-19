@@ -51,7 +51,9 @@
       "value": 7.0
     },
     {
-      "type": [],
+      "type": [
+        "progress:"
+      ],
       "value": 3.0
     },
     {
