@@ -6,31 +6,31 @@
       "type": [
         "health:"
       ],
-      "value": 7.0
+      "value": 3.0
     },
     {
       "type": [
         "self-worth:"
       ],
-      "value": 8.0
+      "value": 6.0
     },
     {
       "type": [
         "gratitude:"
       ],
-      "value": 8.0
+      "value": 6.0
     },
     {
       "type": [
         "generosity:"
       ],
-      "value": 7.0
+      "value": 4.0
     },
     {
       "type": [
         "belonging:"
       ],
-      "value": 8.0
+      "value": 7.0
     },
     {
       "type": [
@@ -42,13 +42,13 @@
       "type": [
         "present:"
       ],
-      "value": 6.0
+      "value": 4.0
     },
     {
       "type": [
         "past:"
       ],
-      "value": 9.0
+      "value": 8.0
     },
     {
       "type": [
@@ -72,19 +72,19 @@
       "type": [
         "independence:"
       ],
-      "value": 4.0
+      "value": 7.0
     },
     {
       "type": [
         "motivation:"
       ],
-      "value": 7.0
+      "value": 5.0
     },
     {
       "type": [
         "wellbeing:"
       ],
-      "value": 7.0
+      "value": 5.0
     }
   ]
 }
