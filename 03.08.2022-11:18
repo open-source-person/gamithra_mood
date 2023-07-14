@@ -1,0 +1,90 @@
+{
+  "date": "03.08.2022", 
+  "data": [
+    {
+      "type": [
+        "health:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "self-worth:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "gratitude:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "generosity:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "belonging:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "future:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "present:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "past:"
+      ], 
+      "value": 7.0
+    }, 
+    {
+      "type": [
+        "progress:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "gratification:"
+      ], 
+      "value": 6.0
+    }, 
+    {
+      "type": [
+        "focus:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "independence:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "motivation:"
+      ], 
+      "value": 5.0
+    }, 
+    {
+      "type": [
+        "wellbeing:"
+      ], 
+      "value": 6.0
+    }
+  ], 
+  "time": "11:18"
+}
